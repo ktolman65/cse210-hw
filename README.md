@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-- Ken TOlman 9/18/2024
+- Ken Tolman 9/18/2024
 
 This is the starter code for students in the worldwide content version of CSE 210.
 
